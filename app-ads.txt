@@ -4,7 +4,6 @@ ca-app-pub-3405044999727097~3378055694
 
 
 
-
 #Last update Jun 17, 2022
 #=== AdMob
 google.com, pub-8858162097015410, DIRECT, f08c47fec0942fa0
@@ -1031,4 +1030,3 @@ cedato.com, 100878910, RESELLER
 adtelligent.com, 309040, RESELLER, 7de89dc7742b5b11
 advertising.com, 28441, RESELLER
 adtech.com, 28441, RESELLER
-
