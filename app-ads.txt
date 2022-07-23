@@ -1,9 +1,3 @@
-#=== Mine
-google.com, pub-3405044999727097, DIRECT, f08c47fec0942fa0
-ca-app-pub-3405044999727097~3378055694
-
-#=== CAS
-google.com, pub-5636049984270410, DIRECT, f08c47fec0942fa0
 
 
 #Last update Jul 18, 2022
@@ -1111,3 +1105,12 @@ cedato.com, 100878910, RESELLER
 adtelligent.com, 309040, RESELLER, 7de89dc7742b5b11
 advertising.com, 28441, RESELLER
 adtech.com, 28441, RESELLER
+
+
+#=== CAS
+google.com, pub-5636049984270410, DIRECT, f08c47fec0942fa0
+
+#=== Mine
+google.com, pub-3405044999727097, DIRECT, f08c47fec0942fa0
+ca-app-pub-3405044999727097~3378055694
+
