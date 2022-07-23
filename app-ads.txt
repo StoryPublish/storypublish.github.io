@@ -1110,5 +1110,3 @@ adtech.com, 28441, RESELLER
 
 #=== Mine
 google.com, pub-3405044999727097, DIRECT, f08c47fec0942fa0
-ca-app-pub-3405044999727097~3378055694
-
