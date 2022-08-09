@@ -1,5 +1,6 @@
 #AppBroda Start
 appbroda.com, 631, DIRECT
+google.com, pub-7473721656533539, DIRECT, f08c47fec0942fa0
 google.com, pub-3184487253168181, RESELLER, f08c47fec0942fa0
 google.com, pub-7839649756834603, DIRECT, f08c47fec0942fa0
 google.com, pub-3184487253168181, DIRECT, f08c47fec0942fa0
